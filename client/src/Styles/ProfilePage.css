@@ -1,0 +1,43 @@
+.UsernameHeader 
+{
+    text-align: center;
+}
+
+.uHeader 
+{
+    color: white;
+    font-size: 100px;
+    font-family: fantasy;
+    animation: rotateColors 3s infinite;
+}
+
+.UsersPosts
+{
+    text-align: center;
+    height: 400px;
+    overflow-y: scroll;
+    width: 600px;
+    margin: auto;
+}
+
+.allPosts
+{
+    color: white;
+    font-family: serif;
+}
+
+.allPostsHeader
+{
+    color: white;
+    font-family: fantasy;
+    font-style: italic;
+}
+
+@keyframes rotateColors 
+{
+    0% { color: white; }
+    25% { color: lightblue; }
+    50% { color: lightgreen; }
+    75% { color: lightpink; }
+    100% { color: white; }
+}

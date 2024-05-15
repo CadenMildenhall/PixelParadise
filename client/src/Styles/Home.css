@@ -1,0 +1,396 @@
+
+body
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\1350126.png);
+    background-size: cover;
+}
+
+.PPlogo
+{
+    width: 350px;
+    height: 350px;
+
+    /* animation: rotate 3s infinite; */
+}
+
+.Logo
+{
+    text-align: center;
+}
+
+.title
+{
+    text-align: center;
+    font-size: 150px;
+    font-family: serif;
+    letter-spacing: 20px;
+    color: white;
+}
+
+.Buttons
+{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.Apex
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\apex-logo-C3478A4601-seeklogo.com.png);
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.CS2
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\Counter-Strike_2_logo.svg.png);
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 10px;
+}
+
+.StarCraft2
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\starCraft2.png);
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 10px;
+}
+
+.Valorant
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\valorant-logo-valorant-icon-transparent-free-png.webp);
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 10px;
+}
+
+.MineCraft
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\new-minecraft-logo.png);
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 10px;
+}
+
+.Fortnite
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\fortnite-logo-fortnite-icon-transparent-free-png.webp);
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 10px;
+}
+
+.CallOfDuty
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\codLOGO.png);
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 10px;
+}
+
+.HellDivers
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\HellDivers.png);
+    background-color: black;
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 10px;  
+}
+
+.Chess
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\phpkXK09k.png);
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 10px;
+}
+
+.Finals
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\the_finals_icon_by_beeminbenji_dgl8cfr-fullview.png);
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 10px;
+}
+
+.PalWorld
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\Palworld.webp);
+    background-color: black;
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 10px;
+}
+
+.Terraria
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\d6r6e7d-3aa7ddfc-7628-4442-8541-1fe1dc3844c2.png);
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 10px;
+}
+
+.Rust
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\rust.png);
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 10px;   
+}
+
+.Roblox
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\roblox-logo-roblox-icon-transparent-free-png.webp);
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 10px;
+}
+
+.EFT
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\escape_from_tarkov_PNG17.png);
+    background-color: black;
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 10px;
+}
+
+.dTwo
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\d2.png);
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 10px; 
+}
+
+.GTA
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\GTA.png);
+    background-color: black;
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 10px;  
+}
+
+.EldenRing
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\Elden-Ring-Logo-PNG-File.png);
+    background-color: black;
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 10px;
+}
+
+.League
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\27972-5-league-of-legends-logo.png);
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 10px; 
+}
+
+.RainbowSix
+{
+    background-image: url(C:\Users\cado5\workspace\PixelParadise\client\public\Rainbow-Six-Symbol.png);
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: 10px;
+}
+
+.RainbowSix:hover
+{
+    transform: scale(1.2);
+}
+
+.MineCraft:hover
+{
+    transform: scale(1.2);
+}
+
+.Fortnite:hover
+{
+    transform: scale(1.2);
+}
+
+.CallOfDuty:hover
+{
+    transform: scale(1.2);
+}
+
+.Finals:hover
+{
+    transform: scale(1.2);
+}
+
+.Valorant:hover
+{
+    transform: scale(1.2);
+}
+
+.CS2:hover
+{
+    transform: scale(1.2);
+}
+
+.StarCraft2:hover
+{
+    transform: scale(1.2);
+}
+
+.Chess:hover
+{
+    transform: scale(1.2);
+}
+
+.Apex:hover
+{
+    transform: scale(1.2);
+}
+
+.HellDivers:hover
+{
+    transform: scale(1.2);
+}
+
+.Terraria:hover
+{
+    transform: scale(1.2);
+}
+
+.GTA:hover
+{
+    transform: scale(1.2);
+}
+
+.PalWorld:hover
+{
+    transform: scale(1.2);
+}
+
+.Roblox:hover
+{
+    transform: scale(1.2);
+}
+
+.dTwo:hover
+{
+    transform: scale(1.2);
+}
+
+.EldenRing:hover
+{
+    transform: scale(1.2);
+}
+
+.League:hover
+{
+    transform: scale(1.2);
+}
+
+.Rust:hover
+{
+    transform: scale(1.2);
+}
+
+.EFT:hover
+{
+    transform: scale(1.2);
+}
+
+.Rust:hover
+{
+    transform: scale(1.2);
+}
+
+
+@keyframes rotate
+{
+    from
+    {
+        transform: rotateZ(0deg);
+    }
+    to
+    {
+        transform: rotateZ(360deg);
+    }
+}

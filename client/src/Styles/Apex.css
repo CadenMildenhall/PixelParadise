@@ -1,0 +1,119 @@
+
+
+.apexLogo
+{
+    text-align: center;
+    margin-bottom: 10px;
+
+    /* animation: rotate 3s infinite; */
+}
+
+.Message
+{
+    font-size: 25px;
+    font-family: serif;
+    color: black;
+    text-align: center;
+    color: white;
+}
+
+.mClass
+{
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    margin: auto;
+}
+
+.time
+{
+    font-size: x-small;
+    opacity: 50%;
+}
+
+.apex
+{
+    height: 200px;
+    width: 200px;
+}
+
+.TextBox
+{
+    text-align: center;
+}
+
+.Text
+{
+    resize: none;
+    width: 700px;
+    height: 100px;
+    border:  solid 3px;
+    border-color: white;
+    color: white;
+    margin-top: 10px;
+    font-family: serif;
+    background-color: transparent;
+}
+
+.postArea
+{
+    margin-top: 10px;
+    margin: auto;
+    width: 700px;
+    height: 300px;
+    background-color: transparent;
+    border-color: black;
+    overflow-y: scroll;
+}
+
+.usersName
+{
+    font-size: x-large;
+    animation: rotateColors 5s linear infinite;
+}
+
+.postButton
+{
+   background-color: white;
+   width: 100px;
+   height: 35px;
+   border: none;
+   border-radius: 50px;
+}
+
+.buttons
+{
+    text-align: center;
+}
+
+.postButton:hover
+{
+    background-color: black;
+    color: white;
+}
+
+.postButton:active
+{
+    transform: scale(.9);
+}
+
+@keyframes rotate 
+{
+    from
+    {
+        transform: rotateY(0deg);
+    }
+    to
+    {
+        transform: rotateY(360deg);
+    }
+}
+
+@keyframes rotateColors 
+{
+    0% { color: white; }
+    25% { color: lightblue; }
+    50% { color: lightgreen; }
+    75% { color: lightpink; }
+    100% { color: white; }
+}

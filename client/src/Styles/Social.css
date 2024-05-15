@@ -1,0 +1,108 @@
+
+
+.findFriends
+{
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    font-family: fantasy;
+    background-color: white;
+}
+
+.friends
+{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 55px;
+
+    animation: rotateColors 5s linear infinite;
+}
+
+.friendsList
+{
+    margin: auto;
+    background-color: transparent;
+    width: 500px;
+    height: 500px;
+}
+
+.friendsListHeader
+{
+    text-align: center;
+    margin-top: 25px;
+}
+
+.freindsListTitle
+{
+    font-family: fantasy;
+    color: white;
+    font-size: 100px;
+}
+
+.findFriends:hover
+{
+    background-color: black;
+    color: white;
+}
+
+.findFriends:active
+{
+    transform: scale(.9);
+}
+
+.messageButton
+{
+    width: 200px;
+    height: 30px;
+    border-radius: 50px;
+    font-family: fantasy;
+    background-color: white;
+}
+
+.removeFriendButton
+{
+    width: 200px;
+    height: 30px;
+    border-radius: 50px;
+    font-family: fantasy;
+    background-color: white;
+    margin-top: 5px;
+}
+
+.friendButtons
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.messageButton:hover
+{
+    background-color: black;
+    color: white;
+}
+
+.messageButton:active
+{
+    transform: scale(.9);
+}
+
+.removeFriendButton:hover
+{
+    background-color: black;
+    color: white;
+}
+
+.removeFriendButton:active
+{
+    transform: scale(.9);
+}
+
+@keyframes rotateColors 
+{
+    0% { color: white; }
+    25% { color: lightblue; }
+    50% { color: lightgreen; }
+    75% { color: lightpink; }
+    100% { color: white; }
+}

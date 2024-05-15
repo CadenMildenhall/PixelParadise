@@ -1,0 +1,79 @@
+
+
+.MessagesPostArea
+{
+    margin-top: 10px;
+    margin: auto;
+    width: 700px;
+    height: 400px;
+    background-color: black;
+    border-color: black;
+    overflow-y: scroll;
+}
+
+.usersMessages
+{
+    font-family: serif;
+    font-size: 20px;
+    margin-bottom: 10px;                                                                                                                                                                                                                                                                                                                               
+    max-width: 40%;
+    border-radius: 8px;
+    padding: 10px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    color: white;
+}
+
+.TextArea
+{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.typeHere
+{
+    resize: none;
+    background-color: black;
+    width: 700px;
+    height: 100px;
+    color: white;
+    font-family: serif;
+}
+
+.DMbuttons
+{
+    text-align: center;
+}
+
+.CurrentUserMessage {
+    background-color: #4CAF50; /* Green background */
+    align-self: center; /* Align to the right */
+    width: fit-content;
+  }
+  
+  /* Other user's message */
+  .OtherUserMessage {
+    background-color: #2196F3; /* Blue background */
+    align-self: center;
+    width: fit-content; 
+  }
+
+.sendButton
+{
+    background-color: white;
+    width: 100px;
+    height: 35px;
+    border: none;
+    border-radius: 50px;
+}
+
+.sendButton:hover
+{
+    background-color: #5cb85c;
+    color: white;
+}
+
+.sendButton:active
+{
+    transform: scale(.9);
+}
