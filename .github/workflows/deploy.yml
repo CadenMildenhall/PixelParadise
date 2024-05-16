@@ -16,7 +16,7 @@ jobs:
     - name: Set up .NET
       uses: actions/setup-dotnet@v2
       with:
-        dotnet-version: '7.x'  # Use the version your app requires
+        dotnet-version: '6.x'  # Use the version your app requires
 
     - name: Install dependencies
       run: dotnet restore
