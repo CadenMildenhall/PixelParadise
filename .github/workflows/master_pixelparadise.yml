@@ -39,7 +39,7 @@ jobs:
     needs: build
     environment:
       name: 'Production'
-      url: ${{ pixelparadise.azurewebsites.net }}
+      url: ${{ https://pixelparadise.azurewebsites.net }}
 
     steps:
       - name: Download artifact from build job
